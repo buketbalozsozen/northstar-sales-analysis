@@ -119,3 +119,11 @@ northstar-sales-analysis/
     ├── Northstar_Sales_Analysis_Management_Dashboard.png
     ├── Northstar_Sales_Analysis_Product_Analysis.png
     └── Northstar_Sales_Analysis_Return_Analysis.png
+
+## Project Status
+
+**Completed**
+
+## Note
+
+This is a simulated client project created for learning and portfolio purposes.
